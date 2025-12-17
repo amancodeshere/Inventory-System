@@ -1,3 +1,6 @@
+# Ignore ide files
+.idea
+
 # Prerequisites
 *.d
 
