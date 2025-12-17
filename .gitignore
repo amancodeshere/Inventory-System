@@ -1,6 +1,9 @@
 # Ignore ide files
 .idea
 
+# Ignore env files
+.env
+
 # Prerequisites
 *.d
 
